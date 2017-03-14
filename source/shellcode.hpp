@@ -1,6 +1,5 @@
 #ifndef SHELLCODE_HPP
 #define SHELLCODE_HPP
-#include <iostream>
 #include <fstream>
 #include <iomanip>
 #include <sstream>
